@@ -108,7 +108,7 @@ This project leverages **iris-based authentication** via an RGB camera to enable
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activate    # On Windows: venv\Scripts\activate
+   source venv/bin/activate    
    ```
 
 3. **Install dependencies**
