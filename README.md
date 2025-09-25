@@ -1,11 +1,11 @@
 #  Iris Authentication using RGB Camera & Smart Home Automation
 
-## 📖 Overview  
+##  Overview  
 This project leverages **iris-based authentication** via an RGB camera to enable secure and smart home automation. Upon verifying a user’s identity through their iris, the system can autonomously control smart home devices (e.g., lights, appliances). It combines computer vision, biometrics, and home IoT control in one pipeline.
 
 ---
 
-## 📑 Table of Contents  
+##  Table of Contents  
 1. [Background & Motivation](#-background--motivation)  
 2. [Features](#-features)  
 3. [System Architecture & Workflow](#-system-architecture--workflow)  
@@ -17,7 +17,7 @@ This project leverages **iris-based authentication** via an RGB camera to enable
 
 ---
 
-##🧠 Background & Motivation  
+## Background & Motivation  
 - Biometric authentication adds a strong security layer compared to passwords or PINs.  
 - Iris recognition is stable over time and difficult to spoof.  
 - Integrating biometrics with smart homes ensures only authorized users can control devices.  
@@ -70,7 +70,7 @@ This project leverages **iris-based authentication** via an RGB camera to enable
   - Configuration files, calibration routines  
 
 ---
-## 📂 Repository Structure  
+##  Repository Structure  
 
 ```
 
@@ -97,7 +97,7 @@ This project leverages **iris-based authentication** via an RGB camera to enable
 
 ---
 
-## 💻 Installation & Setup  
+##  Installation & Setup  
 
 1. **Clone the repository**  
    ```bash
@@ -142,7 +142,7 @@ This project leverages **iris-based authentication** via an RGB camera to enable
 
 ---
 
-## 🧾 Usage Guide
+##  Usage Guide
 
 * **Enroll Mode:**
 
